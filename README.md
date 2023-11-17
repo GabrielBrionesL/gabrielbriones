@@ -16,12 +16,6 @@ I'm a passionate buisness analytics and big data with a keen interest in data en
 - **Tools and Technologies:** 📒 Jupyter | 🧠 Google Collab | 🎮 Unity | 🚰 NiFi
 ⚡ Spark | 📊 Tableau | 💼 PowerBI
 
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbrionesl&show_icons=true&hide=contribs,prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbrionesl&layout=compact)
-
 ## 😎 Visitors
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrielbrionesl.gabrielbrionesl)
 
