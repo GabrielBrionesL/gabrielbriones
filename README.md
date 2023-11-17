@@ -1,7 +1,7 @@
 # Howdy, I'm Gabriel Briones Loria! 👋
 
 ## 🤠 About Me
-I'm a passionate buisness analytics and big data with a keen interest in data engineering and data science. I love Star Wars, history, and, philosophy.
+I'm passionate buisness analytics and big data with a keen interest in data engineering and data science. I love Star Wars, history, and, philosophy.
 
 ## 🔬 Projects
 ### Project 1: Analyzing the effects of socio-economic factors on pregnancy outcomes
