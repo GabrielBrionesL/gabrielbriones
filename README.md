@@ -11,7 +11,7 @@ I'm a passionate buisness analytics and big data with a keen interest in data en
 
 ## 🧰 Skills
 - **Programming Languages:** Python, SQL
-- **Frameworks and Libraries:** pandas, numpy, sci-kit learn, openai
+- **Frameworks and Libraries:** pandas, numpy, sci-kit learn, matplotlib, seaborn, openai
 - **Tools and Technologies:** Jupyter, Google Collab, Unity, NiFi, Spark, Tableau, PowerBI
 
 ## 📈 GitHub Stats
