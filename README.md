@@ -14,12 +14,13 @@ I'm a passionate buisness analytics and big data with a keen interest in data en
 - **Frameworks and Libraries:** 🐼 Pandas | 🔢 NumPy | 🧠 Sci-kit Learn | 📈 Matplotlib | 🌊 Seaborn | 🤖 OpenAI
 - **Tools and Technologies:** 📒 Jupyter | 🧠 Google Collab | 🎮 Unity | 🚰 NiFi | ⚡ Spark | 📊 Tableau | 💼 PowerBI
 
-## 😎 Visitors
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrielbrionesl.gabrielbrionesl)
-
 ## 🙌 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gabrielbrionesloria/)
 - [Unity](https://play.unity.com/u/gvbl92)
 - [Tableau Visualizations](https://public.tableau.com/app/profile/gabriel.briones/vizzes)
 
+## 😎 Visitors
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrielbrionesl.gabrielbrionesl)
+
 Feel free to explore my repositories and don't hesitate to reach out! 😊
+
