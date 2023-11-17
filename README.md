@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hello, I'm Gabriel Briones Loria! 👋🤠
 
 ## About Me
@@ -17,9 +15,9 @@ I'm a passionate buisness analytics and big data with a keen interest in data en
 - https://github.com/cfonderson/portfolio/tree/main/DS4A%20Capstone
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielbrionesl&show_icons=true&hide=contribs,prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbrionesl&layout=compact)
 
 ## Visitors
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
