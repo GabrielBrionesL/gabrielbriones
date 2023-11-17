@@ -12,7 +12,7 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 ## 🧰 Skills
 - **Programming Languages:** 🐍 Python | 📊 SQL |
 - **Frameworks and Libraries:** 🐼 Pandas | 🔢 NumPy | 🧠 Scikit-Learn | 📈 Matplotlib | 🌊 Seaborn | 🤖 OpenAI
-- **Tools and Technologies:** 📒 Jupyter | 🎮 Unity | 🚰 NiFi | ⚡ Spark | 📊 Tableau | 💼 PowerBI
+- **Tools and Technologies:** 📒 Jupyter | 🎮 Unity | 🚰 NiFi | ⚡ Spark | 📉 Tableau | 💼 PowerBI
 
 ## 🙌 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gabrielbrionesloria/)
