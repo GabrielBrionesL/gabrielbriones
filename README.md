@@ -17,7 +17,7 @@ I'm a passionate buisness analytics and big data with a keen interest in data en
 ## 🙌 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gabrielbrionesloria/)
 - [Unity](https://play.unity.com/u/gvbl92)
-- [Tableau Visualizations](https://public.tableau.com/app/profile/gabriel.briones/vizzes)
+- [Tableau](https://public.tableau.com/app/profile/gabriel.briones/vizzes)
 
 ## 😎 Visitors
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrielbrionesl.gabrielbrionesl)
