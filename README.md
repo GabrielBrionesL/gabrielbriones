@@ -6,7 +6,7 @@ I'm a passionate buisness analytics and big data with a keen interest in data en
 ## 🔬 Projects
 ### Project 1: Analyzing the effects of socio-economic factors on pregnancy outcomes
 - Description: DS4A Capstone project
-- Technologies: Python, Tableau, 
+- Technologies: Python, Tableau
 - https://github.com/cfonderson/portfolio/tree/main/DS4A%20Capstone
 
 ## 🧰 Skills
