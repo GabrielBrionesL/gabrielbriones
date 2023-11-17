@@ -4,8 +4,8 @@
 I'm a passionate buisness analytics and big data with a keen interest in data engineering and data science. I love Star Wars, history, and, philosophy.
 
 ## 🔬 Projects
-### Project 1: DS4A Capstone Project
-- Description: We chose to investigate the interplay between racial disparities in pregnancy-related mortality and socioeconomic factors.
+### Project 1: Analyzing the effects of socio-economic factors on pregnancy outcomes
+- Description: DS4A Capstone project
 - Technologies: Python, Tableau, 
 - https://github.com/cfonderson/portfolio/tree/main/DS4A%20Capstone
 
