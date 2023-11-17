@@ -1,6 +1,6 @@
-# Hello, I'm Gabriel Briones Loria! 👋🤠
+# Howdy, I'm Gabriel Briones Loria! 👋
 
-## About Me
+## 🤠 About Me
 I'm a passionate buisness analytics and big data with a keen interest in data engineering and data science. I love Star Wars, history, and, philosophy.
 
 ## 🧰 Skills
