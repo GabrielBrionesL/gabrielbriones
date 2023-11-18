@@ -16,6 +16,7 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 
 ## 🙌 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gabrielbrionesloria/)
+- [DataCamp](https://www.datacamp.com/portfolio/gabrielbriones)
 - [Unity](https://play.unity.com/u/gvbl92)
 - [Tableau](https://public.tableau.com/app/profile/gabriel.briones/vizzes)
 
