@@ -10,9 +10,9 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 - https://github.com/cfonderson/portfolio/tree/main/DS4A%20Capstone
 
 ## 🧰 Skills
-- **Programming Languages:** 🐍 Python | 📊 SQL |
+- **Programming Languages:** 🐍 Python | 📊 SQL
 - **Frameworks and Libraries:** 🐼 Pandas | 🔢 NumPy | 🧠 Scikit-Learn | 📈 Matplotlib | 🌊 Seaborn | 🤖 OpenAI
-- **Tools and Technologies:** 📒 Jupyter | 🎮 Unity | 🚰 NiFi | ⚡ Spark | 📉 Tableau | 💼 PowerBI
+- **Tools and Technologies:** 📒 Jupyter | 📉 Tableau | 💼 PowerBI | 🚰 NiFi | ⚡ Spark | 🎮 Unity
 
 ## 🙌 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gabrielbrionesloria/)
