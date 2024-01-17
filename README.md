@@ -7,7 +7,7 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 ### Project 1: Analyzing the effects of socio-economic factors on pregnancy outcomes
 - Description: DS4A Capstone project
 - Technologies: Python, Tableau
-- [Explore here](https://github.com/GabrielBrionesL/DS4A-Capstone/tree/main)
+- [Explore this project here](https://github.com/GabrielBrionesL/DS4A-Capstone/tree/main)
 
 ## 🧰 Skills
 - **Programming Languages:** 🐍 Python | 📊 SQL
