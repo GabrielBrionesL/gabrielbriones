@@ -7,12 +7,12 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 ### Project 1: Analyzing the effects of socio-economic factors on pregnancy outcomes
 - Description: DS4A Capstone project
 - Technologies: Python, Tableau
-- https://github.com/cfonderson/portfolio/tree/main/DS4A%20Capstone
+- [Explore here](https://github.com/GabrielBrionesL/DS4A-Capstone/tree/main)
 
 ## 🧰 Skills
 - **Programming Languages:** 🐍 Python | 📊 SQL
 - **Frameworks and Libraries:** 🐼 Pandas | 🔢 NumPy | 🧠 Scikit-Learn | 📈 Matplotlib | 🌊 Seaborn | 🤖 OpenAI
-- **Tools and Technologies:** 📒 Jupyter | 📉 Tableau | 💼 PowerBI | 🚰 NiFi | ⚡ Spark | 🎮 Unity
+- **Tools and Technologies:** 📒 Jupyter | 📉 Tableau | 💼 PowerBI | 🚰 NiFi | ⚡ Spark | 🎮 Unity | 🐳 Docker | 🛠️ dbt
 
 ## 🙌 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gabrielbrionesloria/)
