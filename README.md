@@ -20,9 +20,4 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 - [DataCamp](https://www.datacamp.com/portfolio/gabrielbriones)
 - [Unity](https://play.unity.com/u/gvbl92)
 
-
-## 😎 Visitors
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrielbrionesl.gabrielbrionesl)
-
 Feel free to explore my repositories and don't hesitate to reach out! 😊
-
