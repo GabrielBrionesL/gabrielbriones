@@ -10,12 +10,12 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 - [Repo](https://github.com/GabrielBrionesL/DS4A-Capstone/tree/main)
 
 ### DataCamp Projects
-- Description: Hands-on coding experience by working on projects, allowing them to reinforce and apply the concepts learned in DataCamp courses.
+- Description: Hands-on coding experience by working on projects to reinforce and apply the concepts learned in DataCamp courses.
 - Technologies: Python, SQL
 - [Repo](https://github.com/GabrielBrionesL/DataCamp-Projects)
 
 ### 2018 Santander Value Prediction Challenge
-- Description: Hands-on coding experience by working on projects, allowing them to reinforce and apply the concepts learned in DataCamp courses.
+- Description: Predict the value of transactions for potential customers
 - Technologies: Python, SQL
 - Libraries: scitkit-learn, xgboost, lightgbm, catboost
 - [Repo](https://github.com/GabrielBrionesL/santander-value-prediction-challenge)
