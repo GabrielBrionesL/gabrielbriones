@@ -14,12 +14,6 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 - Technologies: Python, SQL
 - [Repo](https://github.com/GabrielBrionesL/DataCamp-Projects)
 
-### 2018 Santander Value Prediction Challenge
-- Description: Predict the value of transactions for potential customers
-- Technologies: Python, SQL
-- Libraries: scitkit-learn, xgboost, lightgbm, catboost
-- [Repo](https://github.com/GabrielBrionesL/santander-value-prediction-challenge)
-
 ## 🧰 Skills
 - **Programming Languages:** 🐍 Python | 📊 SQL
 - **Frameworks and Libraries:** 🐼 Pandas | 🔢 NumPy | 🧠 Scikit-Learn | 🤖 OpenAI
