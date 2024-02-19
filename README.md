@@ -9,7 +9,8 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 - Technologies: Python, CSS, scitkit-learn, pickle, plotly, numpy, streamlit 
 - [Visit the interactive web app here](https://breastcancer-predict-app.streamlit.app/)
 - [Repo](https://github.com/GabrielBrionesL/streamlit-cancer-predict-app)
-### Project 1: Analyzing the effects of socio-economic factors on pregnancy outcomes
+
+### Analyzing the effects of socio-economic factors on pregnancy outcomes
 - Description: For our DS4A capstone project, we chose to investigate the interplay between racial disparities in pregnancy-related mortality and socioeconomic factors.
 - Technologies: Python, Tableau
 - [Repo](https://github.com/GabrielBrionesL/DS4A-Capstone/tree/main)
