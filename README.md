@@ -6,7 +6,7 @@ I'm a passionate buisness analytics and big data student with a keen interest in
 ## 🔬 Projects
 ### Breast Cancer Prediction - Streamlit Web App
 - Description: Logistic Regression of Breast Cancer Wisconsin (Diagnostic) Data Set that is deployed on Streamlit for better visualization.
-- Technologies: Python, CSS, scitkit-learn, pickle, plotly, numpy, streamlit 
+- Technologies: Python, CSS, scikit-learn, pickle, plotly, numpy, streamlit 
 - [Visit the interactive web app here](https://breastcancer-predict-app.streamlit.app/)
 - [Repo](https://github.com/GabrielBrionesL/streamlit-cancer-predict-app)
 
