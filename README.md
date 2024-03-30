@@ -1,7 +1,7 @@
 # Howdy, I'm Gabriel Briones Loria! 👋
 
 ## 🤠 About Me
-I'm a passionate buisness analytics and big data student with a keen interest in data engineering and data science. As an avid fan of new media and art, I'm interested in leveraging my programming skills to create virtual reality experiences. I love Star Wars, history, and philosophy. I'm originally from Texas and I'm now based in Madrid, Spain.
+I'm a passionate business analytics and big data student with a keen interest in data engineering and data science. As an avid fan of new media and art, I'm interested in leveraging my programming skills to create virtual reality experiences. I love Star Wars, history, and philosophy. I'm originally from Texas and I'm now based in Madrid, Spain.
 
 ## 🔬 Projects
 ### Breast Cancer Prediction - Streamlit Web App
