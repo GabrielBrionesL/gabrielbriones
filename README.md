@@ -10,11 +10,15 @@ I'm a passionate business analytics and big data student with a keen interest in
 - [Visit the interactive web app here](https://breastcancer-predict-app.streamlit.app/)
 - [Repo](https://github.com/GabrielBrionesL/streamlit-cancer-predict-app)
 
+### Data Engineering - YouTube 
+- Description: This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
+- Technologies: Python, SQL, Docker
+- [Repo]([https://github.com/GabrielBrionesL/elt-project-fcc](https://github.com/GabrielBrionesL/de-aws-youtube))
+
 ### ELT Project
 - Description: This repository contains a custom Extract, Load, Transform (ELT) project that utilizes Docker and PostgreSQL to demonstrate a simple ELT process.
 - Technologies: Python, SQL, Docker
 - [Repo](https://github.com/GabrielBrionesL/elt-project-fcc)
-
 
 ### Analyzing the effects of socio-economic factors on pregnancy outcomes
 - Description: For our DS4A capstone project, we chose to investigate the interplay between racial disparities in pregnancy-related mortality and socioeconomic factors.
@@ -35,6 +39,5 @@ I'm a passionate business analytics and big data student with a keen interest in
 - [LinkedIn](https://www.linkedin.com/in/gabrielbrionesloria/)
 - [Tableau](https://public.tableau.com/app/profile/gabriel.briones/vizzes)
 - [DataCamp](https://www.datacamp.com/portfolio/gabrielbriones)
-- [Unity](https://play.unity.com/u/gvbl92)
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
