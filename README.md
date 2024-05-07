@@ -12,8 +12,8 @@ I'm a passionate business analytics and big data student with a keen interest in
 
 ### Data Engineering - YouTube 
 - Description: This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
-- Technologies: Python, SQL, Docker
-- [Repo]([https://github.com/GabrielBrionesL/elt-project-fcc](https://github.com/GabrielBrionesL/de-aws-youtube))
+- Technologies: AWS, Python, Spark
+- [Repo](https://github.com/GabrielBrionesL/de-aws-youtube)
 
 ### ELT Project
 - Description: This repository contains a custom Extract, Load, Transform (ELT) project that utilizes Docker and PostgreSQL to demonstrate a simple ELT process.
