@@ -11,7 +11,7 @@ I'm a passionate business analytics and big data student with a keen interest in
 - [Repo](https://github.com/GabrielBrionesL/streamlit-cancer-predict-app)
 
 ### Data Engineering - YouTube 
-- Description: This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
+- Description: The objective of this project is to securely manage, streamline, and analyze structured and semi-structured data from YouTube videos based on video categories and trending metrics.
 - Technologies: AWS, Python, Spark
 - [Repo](https://github.com/GabrielBrionesL/de-aws-youtube)
 
