@@ -5,7 +5,7 @@ I'm a passionate business analytics and big data student with a keen interest in
 
 ## 🚦 [Visit my portfolio](https://gabrielbrionesl.github.io/)
 
-## 🔬 Projects
+## 🔬 Project Highlights
 ### Breast Cancer Prediction - Streamlit Web App
 - Description: Logistic Regression of Breast Cancer Wisconsin (Diagnostic) Data Set that is deployed on Streamlit for better visualization.
 - Technologies: Python, CSS, scikit-learn, pickle, plotly, numpy, Streamlit 
@@ -26,11 +26,6 @@ I'm a passionate business analytics and big data student with a keen interest in
 - Description: For our DS4A capstone project, we chose to investigate the interplay between racial disparities in pregnancy-related mortality and socioeconomic factors.
 - Technologies: Python, Tableau
 - [Repo](https://github.com/GabrielBrionesL/DS4A-Capstone/tree/main)
-
-### DataCamp Projects
-- Description: Hands-on coding experience by working on projects to reinforce and apply the data analysis concepts learned in DataCamp courses.
-- Technologies: Python, SQL
-- [Repo](https://github.com/GabrielBrionesL/DataCamp-Projects)
 
 ## 🧰 Skills
 - **Programming Languages:** 🐍 Python | 📊 SQL
