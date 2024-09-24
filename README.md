@@ -30,6 +30,6 @@ I'm a passionate business analytics and big data student with a keen interest in
 ## 🙌 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/gabrielbrionesloria/)
 - [Tableau](https://public.tableau.com/app/profile/gabriel.briones/vizzes)
-- [DataCamp](https://www.datacamp.com/portfolio/gabrielbriones)
+- [Medium](https://medium.com/@gabrielbrionesloria)
 
 Feel free to explore my repositories and don't hesitate to reach out! 😊
