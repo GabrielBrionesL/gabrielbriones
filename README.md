@@ -22,11 +22,6 @@ I'm a passionate business analytics and big data student with a keen interest in
 - Technologies: Python, SQL, Docker
 - [Repo](https://github.com/GabrielBrionesL/elt-project-fcc)
 
-### Analyzing the effects of socio-economic factors on pregnancy outcomes
-- Description: For our DS4A capstone project, we chose to investigate the interplay between racial disparities in pregnancy-related mortality and socioeconomic factors.
-- Technologies: Python, Tableau
-- [Repo](https://github.com/GabrielBrionesL/DS4A-Capstone/tree/main)
-
 ## 🧰 Skills
 - **Programming Languages:** 🐍 Python | 📊 SQL
 - **Frameworks and Libraries:** 🐼 Pandas | 🔢 NumPy | 🧠 Scikit-Learn | 🤖 OpenAI
